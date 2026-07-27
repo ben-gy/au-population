@@ -1,0 +1,32 @@
+Third-Party Notices — Population Change (au-population)
+======================================================
+
+This site bundles the following third-party components. Their licences apply
+only to those components; the rest of the project is AGPL-3.0-or-later.
+
+-------------------------------------------------------------------------------
+Leaflet 1.9.4 — BSD 2-Clause License
+Copyright (c) 2010-2023, Volodymyr Agafonkin
+Copyright (c) 2010-2011, CloudMade
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.
+
+-------------------------------------------------------------------------------
+Runtime / build data (not bundled):
+- Basemap tiles © CARTO, © OpenStreetMap contributors
+- Boundaries: ABS ASGS 2024 Local Government Areas (CC BY 4.0)
+- Population data: ABS Regional Population — ERP + components of change by LGA (CC BY 4.0)
